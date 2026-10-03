@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ffans/community-notes.** Not for installation: use [Packagist](https://packagist.org/packages/ffans/community-notes) or the [upstream repository](https://github.com/FFans/community-notes).
 
-**0** versions archived · Latest: [`v2.0.0-beta.1`](https://github.com/flarchive/ffans-community-notes/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`v2.0.0-beta.1`](https://github.com/flarchive/ffans-community-notes/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.0.0-beta.1` | 2026-09-29 | `^2.0` | [Browse](https://github.com/flarchive/ffans-community-notes/tree/archive/v2.0.0-beta.1) |
 
 Catalog entry: [packages/ffans-community-notes.json](https://github.com/flarchive/archive-index/blob/main/packages/ffans-community-notes.json)
 
